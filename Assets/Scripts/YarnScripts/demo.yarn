@@ -1,0 +1,25 @@
+title: Demo
+tags: 
+colorID: 0
+position: 524,111
+---
+<<if visited("Demo") is false>>
+	Block: Hello and welcome to demo testing! #line:0a285c3
+	Block: What's on the chopping block today? #line:039a414
+<<else>>
+	Block: What's on the chopping block today? #line:063d762
+<<endif>>
+[[What's this button do?|Option1]] #line:0d6966b
+[[What does THIS button do?|Option2]] #line:0aa5d3d
+===
+
+title: Option1
+---
+Block: You have activated Option 1! #line:009893c
+Black: Congrats! #line:0d6723a
+===
+
+title: Option2
+---
+Block: I'm going to talk a lot starting now fkadslghsjkgh;ashgjk;aghjkad;bhjkdfhabadfjk;bhdfjkbhdfjk;hvbajkd;fgurhgiorhg rioghdriog hduiogh ;aghuisg huig hdui;gh ughr;grh g;aergb igbau ;rbn;a bguaerig efvb;uagvbeu agbaeru;gbaeru;gbaevu; aebg;aer  #line:02ce869
+===

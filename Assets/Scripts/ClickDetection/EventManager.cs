@@ -5,6 +5,8 @@ public enum Events
 {
     CLICK,
     MOVE_TO,
+    INSPECT,
+    INTERACT,
 }
 
 public class ClickEventFunction : UnityEvent<Object> { }
